@@ -1,5 +1,0 @@
-Makine Öðrenimi Model Sonuçlarý
-              Model  Precision   Recall  F1 Score
-Logistic Regression   1.000000 1.000000  1.000000
-                KNN   0.976981 0.975124  0.971461
-      Random Forest   1.000000 1.000000  1.000000
